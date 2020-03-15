@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/29582239/76698423-efc13680-66cc-11ea-9c1c-8aad330ca644.jpg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -6,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+<a href="https://www.facebook.com/groups/fullstackwebdevelopment/">Facebook Group |</a>
+<a href="https://plus.google.com/u/0/communities/113464467764075060760">Google Plus |</a>
+<a href="https://www.youtube.com/channel/UCqba1eUmmSCal1DbdaHONZA">Youtube  |</a>
+<a href="http://www.sumon-it.com">Web Site |</a>
+<a href="https://www.facebook.com/csesumonpro">Like Us</a>
 
 ## About Laravel
 
