@@ -86,7 +86,10 @@
 
                 <div class="links">
 
-                    {{$nid->user->name}}
+                    @foreach($nids as $nid)
+                        {{$nid->nid_number}} <br>
+                        {{$nid->user->name}}
+                        @endforeach
                 </div>
             </div>
         </div>

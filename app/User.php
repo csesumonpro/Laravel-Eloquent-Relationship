@@ -37,8 +37,8 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function nid()
+    public function nids()
     {
-        return $this->hasOne(Nid::class);
+        return $this->hasMany(Nid::class,'user_id','id');
     }
 }
