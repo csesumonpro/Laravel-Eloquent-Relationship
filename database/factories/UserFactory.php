@@ -32,3 +32,9 @@ $factory->define(\App\Model\Category::class, function (Faker $faker) {
         'name' => $faker->name,
     ];
 });
+
+$factory->define(\App\Model\Tag::class, function (Faker $faker) {
+    return [
+        'name' => $faker->name,
+    ];
+});

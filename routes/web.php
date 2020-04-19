@@ -28,3 +28,4 @@ Route::resource('post','PostController');
 Route::resource('video','VideoController');
 Route::get('create-a-comment/{id}','VideoController@createComment')->name('createComment');
 Route::post('comment-store','VideoController@CommentStore')->name('CommentStore');
+Route::resource('audio','AudioController');
