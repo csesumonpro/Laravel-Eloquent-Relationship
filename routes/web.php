@@ -24,3 +24,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('user-info','HomeController@userInfo');
 
 Route::resource('product','ProductController');
+Route::resource('post','PostController');
